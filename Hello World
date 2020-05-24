@@ -1,0 +1,44 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package javaapplication1;
+
+/**
+ *
+ * @author Christopher August-William Uhde
+ */
+public class JavaApplication1 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+       System.out.println("Hello World!");  
+    System.out.println("Sup Fools!!");
+    System.out.println("I'm learning a thing or two!");
+ System.out.println("Spicy");
+System.out.println("Chili Bean Soup");
+System.out.println("Lickity Splickity Lemony Kickity");
+System.out.println("Yogi bear sat in a chair vacuuming up all of his hair!");
+System.out.println("Shave it up!");
+System.out.println("I'm a Winner im a Winner!");
+System.out.println("I'm a little teapot short and stout, here is my handle here is my spout.");
+
+int x = 8;  
+if (x == 10) {
+    System.out.println("x must be 10");
+} else { 
+    System.out.println("x isn't 10");
+}
+}
+    
+    }
+/**this marks the end of the bullshit got it eh?
+ * 
+ */
+/**
+ * walk into another dimension a little bit high a little bit low!
+ */
+      
